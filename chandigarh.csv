@@ -1,0 +1,11 @@
+name,category,subcategory,address,lat,lng,cuisines,price_range,tags,phone,description
+The Punjabi Dhaba,Eat,Casual Dining,"Sector 17, Chandigarh",30.733315,76.779418,North Indian|Punjabi,1,family_friendly|budget,9999999990,"Popular Punjabi dhaba"
+Cafe 17,Cafe,Coffee Shop,"Sector 17 Market, Chandigarh",30.734200,76.779800,Coffee|Italian,2,cozy|wifi,9999999991,"Great coffee and quick bites"
+Sector 7 Sweets,Bakery,Bakery,"Sector 7 Market, Chandigarh",30.746000,76.780000,Sweets|Bakery,1,sweet|budget,9999999992,"Famous for jalebi"
+Rooftop Grill,Eat,Fine Dining,"SCO 15, Sector 35, Chandigarh",30.726000,76.755000,Continental|Grill,3,rooftop|romantic,9999999993,"Rooftop dinner spot"
+Chandigarh Biryani Corner,Eat,Quick Bites,"Sector 22, Chandigarh",30.742000,76.775000,Mughlai|Biryani,1,delivery|budget,9999999994,"Biryani specialists"
+Punjab Sweets,Bakery,Sweets,"Sector 15 Market, Chandigarh",30.730000,76.790000,Sweets|Dessert,1,sweet,9999999995,"Traditional sweets"
+The Coffee Lab,Cafe,Coffee Shop,"Sector 8, Chandigarh",30.736500,76.780200,Coffee|Sandwich,2,cozy|workspace,9999999996,"Study-friendly cafe"
+Budget Stay Inn,Stay,Budget Hotel,"Near Railway Station, Chandigarh",30.704000,76.784000,,1,budget|near_station,9999999997,"Affordable rooms"
+Boutique Stay,Stay,Boutique Hotel,"Sector 26, Chandigarh",30.726800,76.771000,,3,stylish|romantic,9999999998,"Boutique rooms with charm"
+Street Food Stall 1,Street Food,Food Stall,"Elante Market, Chandigarh",30.706000,76.788000,Street Food|Chaat,1,cheap|popular,9999999999,"Local street food favorites"
